@@ -9,7 +9,7 @@ I’m a cybersecurity enthusiast passionate about ethical hacking, penetration t
 
 ## 🛠️ Skills & Interests  
 
-- **Cybersecurity:** Penetration Testing | Digital Forensics | Threat Analysis  
+- **Cybersecurity:** Penetration Testing | Ethical hacking  
 - **Languages:** Python 🐍, Bash 🖥️, and some C (when I feel adventurous)  
 
 ---
